@@ -1,0 +1,45 @@
+{
+  "workbench.colorTheme": "Monokai",
+  "workbench.iconTheme": "vscode-icons",
+  "workbench.startupEditor": "newUntitledFile",
+  "editor.fontFamily": "Operator Mono Light",
+  "editor.fontWeight": "bold",
+  "editor.smoothScrolling": true,
+  "editor.renderWhitespace": "all",
+  "editor.tabSize": 2,
+  "editor.letterSpacing": 0.5,
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.fontSize": 15,
+  "prettier.singleQuote": true,
+  "window.zoomLevel": 0,
+  "javascript.preferences.quoteStyle": "single",
+  "[javascript]": {
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true,
+      "source.fixAll.stylelint": true,
+      "source.fixAll": true
+    }
+  },
+  "[javascriptreact]": {
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true,
+      "source.fixAll.stylelint": true,
+      "source.fixAll": true
+    }
+  },
+  "emmet.syntaxProfiles": {
+    "javascript": "jsx"
+  },
+  "emmet.includeLanguages": {
+    "javascript": "javacriptreact"
+  },
+  "bracketPairColorizer.consecutivePairColors": [
+    "()",
+    "[]",
+    "{}",
+    ["#4ceb34", "#ddff00", "#33ccff"],
+    "Red"
+  ],
+  "window.menuBarVisibility": "toggle"
+}
