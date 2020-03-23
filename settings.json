@@ -17,7 +17,7 @@
     "[javascript]": {
       "editor.codeActionsOnSave": {
         "source.fixAll.eslint": true,
-        "source.fixAll.stylelint": true,port
+        "source.fixAll.stylelint": true,
         "source.fixAll": true
       }
     },
