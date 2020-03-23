@@ -17,7 +17,7 @@
     "[javascript]": {
       "editor.codeActionsOnSave": {
         "source.fixAll.eslint": true,
-        "source.fixAll.stylelint": true,
+        "source.fixAll.stylelint": true,port
         "source.fixAll": true
       }
     },
@@ -41,5 +41,6 @@
       ["#4ceb34", "#ddff00", "#33ccff"],
       "Red"
     ],
-    "terminal.integrated.fontSize": 15
+    "terminal.integrated.fontSize": 15,
+    "terminal.integrated.fontWeight": "bold"
   }
